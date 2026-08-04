@@ -2,4 +2,6 @@
 num1=10
 num2=24
 sum=num1+num2
+print("hello")
+print("welcome")
 print("sum of two numbers is:",sum)
